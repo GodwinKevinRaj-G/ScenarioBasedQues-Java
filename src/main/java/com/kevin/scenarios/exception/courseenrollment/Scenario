@@ -1,0 +1,16 @@
+Scenario 2: Online Course Enrollment System (Polymorphism & Exception Handling)
+
+Problem Statement:
+
+You are building an online course enrollment system where students can enroll in courses.
+The system should: Allow students to enroll only if they are above 18 years old.
+
+If a student is below 18, throw an AgeRestrictionException.
+Implement a Student class with fields name, age, and enroll(String courseName).
+Demonstrate method overriding by having a PremiumStudent class that provides extra benefits in the enroll() method.
+
+Task:
+Create a Student class with necessary fields and methods.
+Create a PremiumStudent class that extends Student and overrides enroll().
+Implement the AgeRestrictionException class.
+Write a main method to simulate enrolling students of different ages.
