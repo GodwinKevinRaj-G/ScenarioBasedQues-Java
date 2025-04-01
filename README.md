@@ -1,2 +1,2 @@
 # ScenarioBasedQues-Java
-Scenario Based Questions on  Java
+Scenario Based Questions on Java
