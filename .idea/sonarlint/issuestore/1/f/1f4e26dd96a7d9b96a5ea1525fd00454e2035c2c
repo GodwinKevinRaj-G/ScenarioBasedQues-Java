@@ -1,10 +1,0 @@
-
-p
-java:S3655"TCall "finalValue.isPresent()" or "!finalValue.isEmpty()" before accessing the value.(°·«8ßîÖ£à2
-G	java:S106"+Replace this use of System.out by a logger.(‡›–8†ÆÔ£à2
-G	java:S106"+Replace this use of System.out by a logger.(É¥úú8†ÆÔ£à2
-L	java:S106"+Replace this use of System.out by a logger.(Äüò”ûÿÿÿÿ8ûÖ£à2
-F	java:S106"+Replace this use of System.out by a logger.(°·«8ùçâ£à2
-L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8’±æ£à2
-Q
-java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8Î›Õ£à2
