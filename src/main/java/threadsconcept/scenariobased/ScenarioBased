@@ -1,0 +1,17 @@
+1. File Upload System
+    - Upload multiple files simultaneously.
+    - Each file is uploaded in a separate thread.
+    - Improves user experience and performance.
+    - Simulates parallel I/O-bound operations.
+
+2. Email Notification System
+    - Send email after user registration or purchase.
+    - Main thread handles registration.
+    - Background thread sends email.
+    - Keeps UI responsive and decouples tasks.
+
+3. Background Logging System
+    - Logs important events (e.g., user actions).
+    - Log tasks are submitted to a thread or thread pool.
+    - Main application is not delayed by file/database I/O.
+    - Ensures smooth and uninterrupted user operations.
